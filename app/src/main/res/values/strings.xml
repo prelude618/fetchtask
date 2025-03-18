@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FetchTask</string>
+    <string name="name">Name</string>
+    <string name="list_id">List ID</string>
+    <string name="load_fail">The List loading is failed.</string>
+    <string name="load_success">The list loading is successful.</string>
 </resources>
